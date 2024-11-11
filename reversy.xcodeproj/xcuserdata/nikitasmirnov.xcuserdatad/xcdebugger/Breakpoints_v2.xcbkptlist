@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28CE7B22-11C6-4B5E-8F3C-1728C347DDE2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC21B16E-C393-492B-9FD9-BC07DA69BA35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "reversy/Logic/MainLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "checkBlocking(in:printColor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43B2E325-8A70-4904-A7B7-EDFF5B666D2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "reversy/Logic/MainLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "checkBlocking(in:printColor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "605F8BAD-103B-4595-B05A-1A74CB4DE587"
+            shouldBeEnabled = "Yes"
+            condition = "scoreA != 2 &amp;&amp; printColor == true"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "reversy/Logic/MainLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "checkBlocking(in:printColor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9106EC2-52DA-4938-B5E6-23E239F6E024"
+            shouldBeEnabled = "Yes"
+            condition = "scoreA != 2 &amp;&amp; printColor == true"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "reversy/Logic/MainLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "checkBlocking(in:printColor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
